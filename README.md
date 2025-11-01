@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="250" height="auto" src="rifki.jpg">
 
 # 💫 About Me:
-👨‍💻 You can also check out my portfolio at https://rifkisyhd.github.io/Portofilio-rifki<br><br>📫 How to reach me rifkisyahada81@gmail.com<br><br>⚡ Fun fact I think I am funny XD
+👨‍💻 You can also check out my portfolio at https://rifkisyhd.vercel.app<br><br>📫 How to reach me rifkisyahada81@gmail.com<br><br>⚡ Fun fact I think I am funny XD
 
 
 ## 🌐 Socials:
