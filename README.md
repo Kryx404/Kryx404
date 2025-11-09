@@ -21,6 +21,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kryx404&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+## 📊 Commit Activity:
+[![Rifki's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kryx404&theme=github-compact&days=32)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
